@@ -1,5 +1,9 @@
 # Curating CBT Cognitive Behavioral Therapy
 
+* [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+  > Cognitive behavioral therapy (CBT) is a psycho-social intervention that aims to improve mental health. CBT focuses on challenging and changing unhelpful cognitive distortions (e.g. thoughts, beliefs, and attitudes) and behaviors, improving emotional regulation, and the development of personal coping strategies that target solving current problems. Originally, it was designed to treat depression, but its uses have been expanded to include treatment of a number of mental health conditions, including anxiety. CBT includes a number of cognitive or behavior psychotherapies that treat defined psychopathologies using evidence-based techniques and strategies.
+* [A curated guide to digital cognitive behavioral therapy resources.](https://cbt.digital/)
+
 ## Aaron Beck
 
 * [What is Cognitive Behavior Therapy (CBT)?](https://beckinstitute.org/get-informed/what-is-cognitive-therapy/) - Beck Institute
@@ -36,3 +40,37 @@
   > C. (Consequences of believing B) I feel bad, depressed, etc
   > D. (Dispute the Irrational Belief in B) where is it written in stone that I must I always be successful?
   > E. (Effective new thinking to replace B) I would prefer always to be successful but let’s be realistic- that isn’t very likely, is it- so when I’m not successful I don’t need to make myself feel bad.
+
+## [Debbie Joffe Ellis](http://www.debbiejoffeellis.com/)
+
+> Dr Debbie Joffe Ellis is a licensed psychologist (Australia) and mental health counselor (New York), adjunct professor at Columbia University TC, and is affiliated with several major psychological associations and societies − including being a Member of the Australian Psychological Society, and an International Affiliate Member of the American Psychological Association. She has a doctorate in alternative medicine (MDAM) from the Indian Board of Alternative Medicine in affiliation with the World Health Organization, from whom she also received a gold medal (1993) in recognition of her service to the field of alternative and holistic medicine.
+> 
+> Dedicated to her husband, the great pioneering and remarkable psychologist Albert Ellis PhD, they worked together for several years giving public presentations and professional trainings on Rational Emotive Behavior Therapy (REBT), as well as collaborating on writing and research projects, until his death in 2007. She continues to present, practice and write about his groundbreaking approach of REBT.
+
+* [What is REBT? with Dr. Debbie Joffe Ellis - EDB 167](https://www.differentbrains.org/what-is-rebt-with-dr-debbie-joffe-ellis-edb-167/)
+* [Understanding REBT, with Dr. Debbie Joffe Ellis - EDB 168](https://www.differentbrains.org/understanding-rebt-with-dr-debbie-joffe-ellis-edb-168/)
+* [2019 in Review: Advice For Every Brain, w/ Dr. Nancy Doyle, Dr. Debbie Joffe Ellis & more - EDB 192](https://www.differentbrains.org/2019-in-review-advice-for-every-brain-w-dr-nancy-doyle-dr-debbie-joffe-ellis-more-edb-192/)
+* [Stoicism & Creativity Roundtable on The Stoic Creative Podcast - Season 2, Episode 9](https://soundcloud.com/scott-perry-8/stoicism-creativity-roundtable-on-the-stoic-creative-podcast-season-2-episode-8)
+* [Episode #11: Rational Emotive Behavior Therapy with guest Dr. Debbie Joffe Ellis](https://taramarielive.libsyn.com/episode-11-place-holder) - TARA MARIE LIVE! – Mental, Emotional, Physical, Social, and Spiritual Heath
+
+## [David Burns - Feeling Good - TEAM-CBT](https://github.com/cognitivetech/David-Burns-Feeling-Good-TEAM-CBT)
+
+* [psychology.wikia.org - David Burns](https://psychology.wikia.org/wiki/David_Burns)
+  > David D. Burns, M.D., is an American best selling author and an Adjunct Clinical Professor of Psychiatry and Behavioral Sciences at the Stanford University School of Medicine. He has also served as Visiting Scholar at the Harvard Medical School and Acting Chief of Psychiatry at the Presbyterian / University of Pennsylvania Medical Center in Philadelphia. He is viewed as one of the most influential psychotherapists in history and has been centrally involved in the development of Cognitive Therapy.
+* [FeelingGood.com](https://feelinggood.com/)
+  * [Training workshops](https://feelinggood.com/workshops/)
+  * [Blog](https://feelinggood.com/blog-home/)
+  * [Science Behind TEAM Therapy](https://feelinggood.com/science-behind-t-e-a-m-therapy/)
+* [Feeling Good Institute](http://www.feelinggoodinstitute.com)
+  * [Research Behind TEAM-CBT](http://www.feelinggoodinstitute.com/research-behind-team-cbt/)
+
+## Courses
+
+* [Cognitive Behavioral Therapy: Techniques for Retraining Your Brain](https://www.thegreatcourses.com/courses/cognitive-behavioral-therapy-techniques-for-retraining-your-brain.html) - Great Courses Plus
+
+### Syllabi
+
+* [The Association for Behavioral and Cognitive Therapies](https://www.abct.org/Resources/?m=mResources&fa=Syllabi)
+  * [Seminar in Cognitive-Behavioral Therapy Psychology 785 - Fall 2005 - Dr. Elizabeth Meadows](https://www.abct.org/docs/Syllabi/Seminar_in_CBT_Meadows_Central_Michigan_University.pdf)
+  * [COGNITIVE-BEHAVIORAL PSYCHOTHERAPY PSCL 529a James C. Overholser, Ph.D.](https://www.abct.org/docs/Syllabi/Cognitive_Behavioral_Psychotherapy_Overholser_Case_Western.pdf)
+  * [Cognitive Behavior Therapy - David M. Fresco](https://www.abct.org/docs/Syllabi/CBT_David_Fresco_Kent_State_University.pdf)
